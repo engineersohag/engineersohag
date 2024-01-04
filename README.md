@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/enginnersohag](github.com/enginnersohag)
 
-- 💬 Ask me about **Becoming a Full Stack Web Developer**
+- 💬 Ask me about **Becoming a Full Stack Web Developer topics**
 
 - 📫 How to reach me **connectwithsohag@gmail.com**
 
