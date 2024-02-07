@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohag Hosen</h1>
 <h3 align="center">Frontend Developer | Smart coder | Fiverr | HS Web Soft</h3>
 
-<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQFXO36OPcmXLg/profile-displaybackgroundimage-shrink_350_1400/0/1704033428668?e=1709769600&v=beta&t=bH_ZQo81aGSqGHrdfRwhJMCIdiPucPATX99u9QK9Flo"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQEVR1GZijAusA/profile-displaybackgroundimage-shrink_350_1400/0/1707324819282?e=1712793600&v=beta&t=SEx3THAhe8MPJQVqfV2m3eLVAezEUNbgJ2HFeomW-LU"> </div>
 
 <h3> Hello, I'm Sohag Hosen. I'm a professional web Designer. I have over 1+ years of experience in web and landing page design and also development. Every project I take, I do always with full responsibility and always ahead of schedule. I trust my skills and honesty. Thank you!😊 </h3>
 
