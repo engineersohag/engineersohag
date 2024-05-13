@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohag Hosen</h1>
-<h3 align="center">Frontend Developer | Smart coder | Fiverr | HS Web Soft</h3>
+<h3 align="center">Junior Developer | Hi-Tech IT Institute | Smart coder | Fiverr </h3>
 
-<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQEVR1GZijAusA/profile-displaybackgroundimage-shrink_350_1400/0/1707324819282?e=1712793600&v=beta&t=SEx3THAhe8MPJQVqfV2m3eLVAezEUNbgJ2HFeomW-LU"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQGexxjLFO1cAA/profile-displaybackgroundimage-shrink_350_1400/0/1708009693857?e=1721260800&v=beta&t=WpFoL8mmAdP2Nl7iM7lSFM4lR8shgoBzxdyNwqgs0mQ"> </div>
 
-<h3> Hello, I'm Sohag Hosen. I'm a professional web Designer. I have over 1+ years of experience in web and landing page design and also development. Every project I take, I do always with full responsibility and always ahead of schedule. I trust my skills and honesty. Thank you!😊 </h3>
+<h3> Hello, I'm Sohag Hosen. I'm a professional Web Developer. I have over 1+ years of experience in web and landing page design and also development. Every project I take, I do always with full responsibility and always ahead of schedule. I trust my skills and honesty. Thank you!😊 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
