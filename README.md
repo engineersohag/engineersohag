@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sohag Hosen</h1>
-<h3 align="center">Junior Web Developer | Hi-Tech IT Institute | PHP Laravel | Fiverr </h3>
+<h1 align="center">Hey 👋, I'm Sohag Hosen</h1>
+<h3 align="center">Junior Web Developer | Hi-Tech IT Institute | PHP Laravel | Olive71 </h3>
 
-<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQGexxjLFO1cAA/profile-displaybackgroundimage-shrink_350_1400/0/1708009693857?e=1721260800&v=beta&t=WpFoL8mmAdP2Nl7iM7lSFM4lR8shgoBzxdyNwqgs0mQ"> </div>
+
 
 <h3> Hello, I'm Sohag Hosen. I'm a professional Web Developer. I have over 1+ years of experience in web and landing page design and also development. Every project I take, I do always with full responsibility and always ahead of schedule. I trust my skills and honesty. Thank you!😊 </h3>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engineersohag&label=Profile%20views&color=0e75b6&style=flat" alt="engineersohag" /> </p>
 
-- 🔭 I’m currently working on **Hi-Tech IT Institute & Fiverr**
+- 🔭 I’m currently working on **Hi-Tech IT Institute & Olive71**
 
 - 🌱 I’m currently learning **PHP & Laravel**
 
