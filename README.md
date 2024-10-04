@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohag Hosen</h1>
-<h3 align="center">Junior Developer | Hi-Tech IT Institute | Smart coder | Fiverr </h3>
+<h3 align="center">Junior Web Developer | Hi-Tech IT Institute | PHP Laravel | Fiverr </h3>
 
 <div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQGexxjLFO1cAA/profile-displaybackgroundimage-shrink_350_1400/0/1708009693857?e=1721260800&v=beta&t=WpFoL8mmAdP2Nl7iM7lSFM4lR8shgoBzxdyNwqgs0mQ"> </div>
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Hi-Tech IT Institute & Fiverr**
 
-- 🌱 I’m currently learning **PHP & MYSQL**
+- 🌱 I’m currently learning **PHP & Laravel**
 
 - 👯 I’m looking to collaborate on **github.com/engineersohag**
 
