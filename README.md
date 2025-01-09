@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Sohag Hosen</h1>
-<h3 align="center">Junior Web Developer | Hi-Tech IT Institute | PHP Laravel | Olive71 </h3>
+<h2 align="center">Full Stack Web Developer | MD in Hi-Tech IT Institute | PHP Laravel | Instructor & Quick Learner </h2>
 
 
 
-<h3> Hello, I'm Sohag Hosen. I'm a professional Web Developer. I have over 1+ years of experience in web and landing page design and also development. Every project I take, I do always with full responsibility and always ahead of schedule. I trust my skills and honesty. Thank you!😊 </h3>
+<h3> Hello, I’m Sohag Hosen. I'm an innovative and professional Full Stack Web Developer. I have over 2+ years of experience in website design and development. I am an Expert in HTML, CSS, Bootstrap, Tailwind CSS, SASS, JS, React JS, Vue JS, JQuery, Ajax, PHP, Laravel & MYSQL. Every project I take, I do always with full responsibility and always ahead of schedule. I trust my skills and honesty. Thank you!😊 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Hi-Tech IT Institute & Olive71**
 
-- 🌱 I’m currently learning **PHP & Laravel**
+- 🌱 I’m currently learning **Laravel and Vue JS**
 
 - 👯 I’m looking to collaborate on **github.com/engineersohag**
 
@@ -39,8 +39,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineersohag&show_icons=true&locale=en&layout=compact" alt="engineersohag" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engineersohag&show_icons=true&locale=en" alt="engineersohag" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engineersohag&" alt="engineersohag" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=engineersohag&limit=5&theme=flat&combine_all_yearly_contributions=true)
