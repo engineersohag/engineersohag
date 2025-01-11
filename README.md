@@ -3,7 +3,7 @@
 
 
 
-<h4> Hello, I’m Sohag Hosen. I'm an innovative and professional Full Stack Web Developer. I have over 2+ years of experience in website design and development. I am an Expert in HTML, CSS, Bootstrap, Tailwind CSS, SASS, JS, React JS, Vue JS, JQuery, Ajax, PHP, Laravel & MYSQL. Every project I take, I do always with full responsibility and always ahead of schedule. I trust my skills and honesty. Thank you!😊 </h4>
+<h4> Hello, I’m Sohag Hosen. I'm an innovative and professional Full Stack Web Developer. I have over 2+ years of experience in website design and development. I am an Expert in HTML, CSS, Bootstrap, Tailwind CSS, SASS, JS, Vue JS, JQuery, Ajax, PHP, Laravel & MYSQL. Every project I take, I do always with full responsibility and always ahead of schedule. I trust my skills and honesty. Thank you!😊 </h4>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
