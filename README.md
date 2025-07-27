@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engineersohag&label=Profile%20views&color=0e75b6&style=flat" alt="engineersohag" /> </p>
 
-- 🔭 I’m currently working on **Hi-Tech IT Institute & Olive71**
+- 🔭 I’m currently working on **Hi-Tech IT Institute & Expart IT Solution**
 
 - 🌱 I’m currently learning **Laravel and Vue JS**
 
