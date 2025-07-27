@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sohag Hosen</h1>
-<h3 align="center">Full Stack Web Developer | MD in Hi-Tech IT Institute | PHP Laravel | Instructor & Quick Learner </h3>
+<h3 align="center">Full Stack Web Developer | Expart IT Solution | Hi-Tech IT | PHP Laravel | Instructor & Quick Learner </h3>
 
 
 
