@@ -9,24 +9,24 @@
 
 I'm Sohag Hosen, a results-driven Full-Stack Web Developer with 2+ years of professional experience specializing in PHP & Laravel. I build scalable web applications, REST APIs, AI-powered solutions, automation systems, and secure backend architectures.
 
-🔭 Currently working as Backend Web Developer (PHP & Laravel)
-🤖 Experienced in OpenAI API, AI Automation & OCR
-💳 Experienced in Stripe & PayPal Integration
-⚙️ Skilled in Laravel Jobs, Queues, Scheduler & Cron
-🐧 Experienced with Linux CLI & Server Deployment
-👨‍💼 Team Lead & Technical Mentor
-🎓 Diploma in Computer Science & Technology
-🛠️ Tech Stack
+🔭 Currently working as Backend Web Developer (PHP & Laravel) </br>
+🤖 Experienced in OpenAI API, AI Automation & OCR </br>
+💳 Experienced in Stripe & PayPal Integration </br>
+⚙️ Skilled in Laravel Jobs, Queues, Scheduler & Cron </br>
+🐧 Experienced with Linux CLI & Server Deployment </br>
+👨‍💼 Team Lead & Technical Mentor </br>
+🎓 Diploma in Computer Science & Technology </br>
 
-Backend: PHP, Laravel, CodeIgniter, REST API
-Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, jQuery
-Database: MySQL, PostgreSQL, Firebase
-AI & Automation: OpenAI API, OCR, Laravel Queues, Scheduler, Cron
-Tools: Git, GitHub, Linux, Stripe, PayPal
+🛠️ Tech Stack </br>
+Backend: PHP, Laravel, CodeIgniter, REST API </br>
+Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, jQuery </br>
+Database: MySQL, PostgreSQL, Firebase </br>
+AI & Automation: OpenAI API, OCR, Laravel Queues, Scheduler, Cron </br>
+Tools: Git, GitHub, Linux, Stripe, PayPal </br>
 
-🚀 Featured Projects
-🎓 SG Online Tutor — AI-powered tuition & automated enrollment platform
-🏆 Athleterated — High-scale sports platform with Laravel, OCR, RBAC & payment integration
+🚀 Featured Projects </br>
+🎓 SG Online Tutor — AI-powered tuition & automated enrollment platform </br>
+🏆 Athleterated — High-scale sports platform with Laravel, OCR, RBAC & payment integration </br>
 
 ### 🤝 Connect With Me
 
@@ -45,8 +45,6 @@ Tools: Git, GitHub, Linux, Stripe, PayPal
   </a>
 </p>
 
-
-<p align="center"> 💡 Building scalable software & AI-powered solutions. </p>
 
 ### 🛠️ Languages & Tools
 
@@ -92,5 +90,4 @@ Tools: Git, GitHub, Linux, Stripe, PayPal
 </p>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=engineersohag&limit=5&theme=flat&combine_all_yearly_contributions=true)
+## <p align="center"> 💡 Building scalable software & AI-powered solutions. </p>
