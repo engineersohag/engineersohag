@@ -91,3 +91,15 @@ Tools: Git, GitHub, Linux, Stripe, PayPal </br>
 
 
 ## <p align="center"> 💡 Building scalable software & AI-powered solutions. </p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engineersohag&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Sohag Hosen GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineersohag&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineersohag&hide_border=true" alt="GitHub Streak" />
+</p>
+
